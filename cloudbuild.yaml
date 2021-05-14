@@ -31,7 +31,8 @@ substitutions:
     #Repository Specific configuration. DevOps can change this settings
     _DEPLOYMENTNAME: hello-world-service
     _CONTAINERNAME: hello-world-service    
-    _REPO_NAME: contact2rkp
+    _REPO_NAME: github_contact2rkp_contact2rkp
+
     
     # Developers ONLY change
     _VERSION: v1.0
